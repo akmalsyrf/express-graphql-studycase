@@ -26,8 +26,38 @@ module.exports = [
     },
     {
         id: 5,
-        name: 'Mike',
+        name: 'Miko',
         age: 40,
-        email: "mike@example.com"
-    }
+        email: "miko@example.com"
+    },
+    {
+        id: 6,
+        name: 'Charlie',
+        age: 40,
+        email: "charlie@example.com"
+    },
+    {
+        id: 7,
+        name: 'Alfa',
+        age: 40,
+        email: "alfa@example.com"
+    },
+    {
+        id: 8,
+        name: 'Romeo',
+        age: 40,
+        email: "romeo@example.com"
+    },
+    {
+        id: 9,
+        name: 'Beta',
+        age: 40,
+        email: "beta@example.com"
+    },
+    {
+        id: 10,
+        name: 'Luke',
+        age: 40,
+        email: "luke@example.com"
+    },
 ]
